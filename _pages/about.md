@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [SEM](https://eecs.pku.edu.cn/), [So
 
 I am very fortunate to be advised by [Prof. Jian Chen](https://www.XXX.com/)  from [School of Economics](https://cs.pku.edu.cn/), Southeast University. I was advised by [Prof. Siyu Xia](https://XXX.pku.edu.cn/) from [School of Automation](https://cs.pku.edu.cn/), Southeast University.
 
-You can find my CV here: [Xiankang Wang's Curriculum Vitae](wangxiankang.gitbub.io/assets/wangxiankangCV(Eng).pdf).
+You can find my CV here: [Xiankang Wang's Curriculum Vitae](wangxiankangCV(Eng).pdf).
 
 [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
