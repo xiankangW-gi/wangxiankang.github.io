@@ -7,13 +7,6 @@ venue: ""
 date: 2024-03-01
 location: "江苏，南京"
 ---
-
-
-
-通过博弈论课程引入MARL 
-
-
-
 https://github.com/waterhorse1/NAC?tab=readme-ov-file  [Publications | Yaodong Yang (yangyaodong.com)](https://www.yangyaodong.com/publications)
 
 [NeurIPS_23_NE.pdf (ntu.edu.sg)](https://personal.ntu.edu.sg/boan/papers/NeurIPS_23_NE.pdf)
