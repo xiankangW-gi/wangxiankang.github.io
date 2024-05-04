@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2024-01-16
 venue: 'ICMVA'
-paperurl: '[https://xiankangw-gi.github.io/wangxiankang.github.io/files/ICMVA_2024_paper11.pdf]'
+paperurl: '[https://wangxiankang.github.io/files/ICMVA_2024_paper11.pdf]'
 citation: ''
 ---
 
