@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2024-01-16
 venue: ''
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://drive.google.com/file/d/1dVcoOvpEsitmFLxGtK0sG4eW-ICiNFXf/view?usp=drive_link)'
+paperurl: '[https://drive.google.com/file/d/1dVcoOvpEsitmFLxGtK0sG4eW-ICiNFXf/view?usp=drive_link]'
 citation: ''
 ---
 
