@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html  
 ---
 
 I'm a third year undergraduate student from [SEM](https://eecs.pku.edu.cn/), [Southeast University](https://www.pku.edu.cn/). My research interest includes Adversarial machine learning, Muti-Agent Reinforcement Learning, Computational Game Solving, Computational MacroEconomics, and Industrial Organization.
