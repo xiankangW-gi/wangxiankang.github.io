@@ -7,9 +7,9 @@ redirect_from:
   - /about.html   
 ---
 
-I'm a third year undergraduate student from [SEM](https://eecs.pku.edu.cn/), [Southeast University](https://www.pku.edu.cn/). My research interest includes Adversarial machine learning, Muti-Agent Reinforcement Learning, Computational Game Solving, Computational MacroEconomics, and Industrial Organization.
+I'm a senior student from [SEM](https://em.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/),transferred from School of Automation. My research interest includes Adversarial machine learning, Muti-Agent Reinforcement Learning, Computational Game Solving, Computational MacroEconomics.
 
-I am very fortunate to be advised by [Prof. Jian Chen](https://www.XXX.com/)  from [School of Economics](https://cs.pku.edu.cn/), Southeast University. I was advised by [Prof. Siyu Xia](https://XXX.pku.edu.cn/) from [School of Automation](https://cs.pku.edu.cn/), Southeast University.
+I am very fortunate to be advised by [Prof. Jian Chen](https://em.seu.edu.cn/cj_36681/list.htm)  from [School of Economics](https://em.seu.edu.cn/), Southeast University. I was advised by [Prof. Siyu Xia](https://www.siyuxia.com/) from [School of Automation](https://automation.seu.edu.cn/main.htm), Southeast University.
 
 You can find my CV here: [Xiankang Wang's Curriculum Vitae](https://github.com/xiankangW-gi/wangxiankang.github.io/blob/master/assets/wangxiankangCV(Eng).pdf).
 
