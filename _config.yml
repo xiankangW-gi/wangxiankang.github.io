@@ -21,7 +21,7 @@ repository               : "xiankangW-gi/wangxiankang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_20241010_101336.jpg"
+  avatar           : "个人照片.jpg"
   name             : "Wang Xiankang"
   pronouns         : # example: "she/her"  
   bio              : "AI，Economics"
