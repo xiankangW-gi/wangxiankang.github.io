@@ -7,13 +7,15 @@ redirect_from:
   - /about.html   
 ---
 
-I'm a senior student from [SEM](https://em.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/),transferred from School of Automation. My research interest includes Adversarial machine learning, Muti-Agent Reinforcement Learning, Computational Game Solving, Computational MacroEconomics.
+I am currently a graduate student at the Chow Institute for Economic Research, Xiamen University, specializing in quantitative economics. I received my bachelor’s degree from Southeast University, where I spent my first year in the School of Automation before transferring to the School of Economics and Management for the remaining three years.
 
-I am very fortunate to be advised by [Prof. Jian Chen](https://em.seu.edu.cn/cj_36681/list.htm)  from [School of Economics](https://em.seu.edu.cn/), Southeast University. I was advised by [Prof. Siyu Xia](https://www.siyuxia.com/) from [School of Automation](https://automation.seu.edu.cn/main.htm), Southeast University.
+My primary research interests include household heterogeneity, monetary and fiscal policy, and numerical methods, with a particular focus on applying deep learning techniques to solve complex macroeconomic models.
 
-You can find my CV here: [Xiankang Wang's Curriculum Vitae](https://github.com/xiankangW-gi/wangxiankang.github.io/blob/master/assets/wangxiankangCV(Eng).pdf).
+In my spare time, I enjoy playing football and middle- to long-distance running. I have completed a half marathon and, as of September 4, 2025, I have run a total of 1,960 kilometers. I am also interested in competitive programming contests.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+You can find my CV here: [Xiankang Wang's Curriculum Vitae](https://www.dropbox.com/scl/fi/r42e8yn454ra0twk3tl2b/wangxiankang_CV.pdf?rlkey=q6fqlwkzg75je1t5kl5fpekdk&st=89xkchmo&dl=0).
+
+[Email](wangxiankang.econ@gmail.com) / [Github](https://github.com/xiankangW-gi) 
 ————————————————
 
 
