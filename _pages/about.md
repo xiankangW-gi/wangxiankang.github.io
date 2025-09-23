@@ -13,7 +13,10 @@ My primary research interests include household heterogeneity, monetary and fisc
 
 In my spare time, I enjoy playing football and middle- to long-distance running. I have completed a half marathon and, as of September 4, 2025, I have run a total of 1,960 kilometers. I am also interested in competitive programming contests.
 
+
 You can find my CV here: [Xiankang Wang's Curriculum Vitae](https://www.dropbox.com/scl/fi/r42e8yn454ra0twk3tl2b/wangxiankang_CV.pdf?rlkey=q6fqlwkzg75je1t5kl5fpekdk&st=89xkchmo&dl=0).
+
+[News] After overcoming an iliotibial band (IT band) injury, I finally reached 2,000 km on September 23, 2025.
 
 [Email](wangxiankang.econ@gmail.com) / [Github](https://github.com/xiankangW-gi) 
 ————————————————
