@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a graduate student at the Chow Institute for Economic Research, Xiamen University, specializing in quantitative economics. I received my bachelor’s degree from Southeast University, where I spent my two years in the School of Automation before transferring to the School of Economics and Management for the remaining two years.
 
-My primary research interests include household and firm heterogeneity, monetary and fiscal policy, and numerical methods, with a particular focus on applying deep learning techniques to solve high dimension macroeconomic models. I also have interests in the use of text as data. 
+My primary research interests include household and firm heterogeneity, monetary and fiscal policy, and numerical methods, with a particular focus on applying deep learning techniques to solve high dimensional macroeconomic models. I also have interests in the use of text as data. 
 
 From June to August 2025, I served as a research assistant to Prof. [Ji Huang](https://jihuang.weebly.com/) at The Chinese University of Hong Kong (CUHK). I am currently advised by Prof. [Xiangyu Feng](https://faculty.xmu.edu.cn/FXY/zh_CN/index/594493/list/index.htm).
 
