@@ -7,7 +7,7 @@ redirect_from:
   - /about.html   
 ---
 
-I am currently a graduate student at the Chow Institute for Economic Research, Xiamen University, specializing in quantitative economics. I received my bachelor’s degree from Southeast University, where I spent my two years in the School of Automation before transferring to the School of Economics and Management for the remaining three years.
+I am currently a graduate student at the Chow Institute for Economic Research, Xiamen University, specializing in quantitative economics. I received my bachelor’s degree from Southeast University, where I spent my two years in the School of Automation before transferring to the School of Economics and Management for the remaining two years.
 
 My primary research interests include household and firm heterogeneity, monetary and fiscal policy, and numerical methods, with a particular focus on applying deep learning techniques to solve high dimension macroeconomic models. I also have interests in the use of text as data. 
 
